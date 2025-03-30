@@ -1,3 +1,6 @@
-# Nguyen Lam Quynh
-## Learning Git # Sửa file để có nội dung mới
+# Nguyen Lam Quynh/20231990
 Testing branch dev
+## Reflection
+During this exercise, I had the chance to work with Git’s core features, including branching, committing, and handling pull requests. While the basic steps of creating a repository, committing files, and pushing them to GitHub were easy to follow, I did face a few challenges along the way.
+One of the main difficulties was understanding how to manage branches effectively. I initially struggled with switching between branches, especially when there were uncommitted changes. Git doesn’t allow switching branches when there are changes that haven’t been saved, so I had to learn how to commit or discard those changes before proceeding. This was a bit frustrating at first, but I realized that it was important to get comfortable with the process of committing and switching between branches. Another challenge I encountered was the issue with GitHub authentication. Since GitHub removed password authentication, I had to use a PAT to push changes, which was something I had never done before. At first, I was unsure of how to generate and use the token, but after following the steps, I understood that it’s a safer method to manage authentication.
+I’ve learned how to better manage my code, handle changes, and resolve issues, and I feel more confident about using Git and GitHub in the future.
